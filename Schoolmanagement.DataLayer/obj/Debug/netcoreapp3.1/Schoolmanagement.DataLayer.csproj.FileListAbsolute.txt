@@ -1,0 +1,5 @@
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\bin\Debug\netcoreapp3.1\Schoolmanagement.DataLayer.deps.json
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\bin\Debug\netcoreapp3.1\Schoolmanagement.DataLayer.dll
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp3.1\Schoolmanagement.DataLayer.csprojAssemblyReference.cache
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp3.1\Schoolmanagement.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp3.1\Schoolmanagement.DataLayer.AssemblyInfo.cs

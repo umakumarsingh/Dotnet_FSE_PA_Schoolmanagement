@@ -1,0 +1,14 @@
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.deps.json
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csprojAssemblyReference.cache
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.AssemblyInfo.cs
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CopyComplete
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
+D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb

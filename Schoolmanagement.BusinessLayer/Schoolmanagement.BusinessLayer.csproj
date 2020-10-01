@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Schoolmanagement.DataLayer\Schoolmanagement.DataLayer.csproj" />
+    <ProjectReference Include="..\Schoolmanagement.Entities\Schoolmanagement.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
