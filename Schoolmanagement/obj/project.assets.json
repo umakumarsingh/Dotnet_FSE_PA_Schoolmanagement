@@ -12439,11 +12439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement\\Schoolmanagement.csproj",
+      "projectUniqueName": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\Schoolmanagement.csproj",
       "projectName": "Schoolmanagement",
-      "projectPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement\\Schoolmanagement.csproj",
+      "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\Schoolmanagement.csproj",
       "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement\\obj\\",
+      "outputPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12462,14 +12462,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj": {
-              "projectPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj"
+            "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj": {
+              "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj"
             },
-            "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {
-              "projectPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj"
+            "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {
+              "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj"
             },
-            "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj": {
-              "projectPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj"
+            "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj": {
+              "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj"
             }
           }
         }

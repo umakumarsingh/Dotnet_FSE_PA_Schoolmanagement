@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9V9A77fztTxTsOS07fqUr4ceo4baqRvVEi3CojXVvAwjebk3tHPkbYfnWTRNhw+SLDOH+7pktIa51+Iy+ELDw==",
+  "dgSpecHash": "YVe4MhYhfmMc8b+hbUpvxN5UazQ7Ta1KwIOZWBemlp03WLNaDG1Bg64kf7RHK4GqpJ42jUkcxE+VmRewv+vYBg==",
   "success": true,
-  "projectFilePath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj",
+  "projectFilePath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KUMARUMA\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",

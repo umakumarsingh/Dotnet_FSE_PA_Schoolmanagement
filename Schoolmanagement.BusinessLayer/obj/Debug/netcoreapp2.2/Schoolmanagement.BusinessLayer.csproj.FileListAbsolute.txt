@@ -12,3 +12,17 @@ D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp
 D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CopyComplete
 D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
 D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.deps.json
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csprojAssemblyReference.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.AssemblyInfoInputs.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.AssemblyInfo.cs
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CopyComplete
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb

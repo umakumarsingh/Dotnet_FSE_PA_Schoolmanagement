@@ -7,3 +7,12 @@ D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\
 D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
 D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
 D:\IIHT\Task-9\Shool_MongoDb\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.csprojAssemblyReference.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.deps.json
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.csprojAssemblyReference.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.AssemblyInfoInputs.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.AssemblyInfo.cs
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.csproj.CoreCompileInputs.cache
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb

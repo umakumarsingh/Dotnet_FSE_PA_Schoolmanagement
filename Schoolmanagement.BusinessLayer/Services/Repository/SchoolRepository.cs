@@ -30,6 +30,10 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             _dbLCollection = _mongoContext.GetCollection<Library>(typeof(Library).Name);
             _dbBCollection = _mongoContext.GetCollection<BookBorrow>(typeof(BookBorrow).Name);
         }
+        /// <summary>
+        /// Get All Notice from Notice Db Collection
+        /// </summary>
+        /// <returns></returns>
         public async Task<IEnumerable<Notice>> AllNotice()
         {
             try
@@ -44,7 +48,10 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get All Student from Student Db Collection
+        /// </summary>
+        /// <returns></returns>
         public async Task<IEnumerable<Student>> AllStudent()
         {
             try
@@ -59,7 +66,10 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get All Teachers from Teacher Db Collection
+        /// </summary>
+        /// <returns></returns>
         public async Task<IEnumerable<Teacher>> AllTeacher()
         {
             try
@@ -74,7 +84,10 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get All Book from Library Db Collection
+        /// </summary>
+        /// <returns></returns>
         public async Task<IEnumerable<Library>> BookList()
         {
             try
@@ -89,7 +102,12 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Place borrow book order and save info in BookBorrow dbCollection
+        /// </summary>
+        /// <param name="BookId"></param>
+        /// <param name="bookBorrow"></param>
+        /// <returns></returns>
         public async Task<BookBorrow> BorrowBook(string BookId, BookBorrow bookBorrow)
         {
             try
@@ -107,7 +125,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             }
             return bookBorrow;
         }
-
+        /// <summary>
+        /// Get Book Borrow Infromation from Db Collction BookBorrow
+        /// </summary>
+        /// <param name="BorrowId"></param>
+        /// <returns></returns>
         public async Task<BookBorrow> BorrowInfo(string BorrowId)
         {
             try
@@ -122,7 +144,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Find Notice by notice name
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public async Task<IEnumerable<Notice>> FindNotice(string name)
         {
             try
@@ -139,7 +165,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Find student by Student name
+        /// </summary>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public async Task<IEnumerable<Student>> FindStudent(string name)
         {
             try

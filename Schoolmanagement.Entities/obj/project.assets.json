@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj",
+      "projectUniqueName": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj",
       "projectName": "Schoolmanagement.Entities",
-      "projectPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj",
+      "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj",
       "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\IIHT\\Task-9\\Shool_MongoDb\\Schoolmanagement.Entities\\obj\\",
+      "outputPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -30,6 +30,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             _dbLCollection = _mongoContext.GetCollection<Library>(typeof(Library).Name);
             _dbBCollection = _mongoContext.GetCollection<BookBorrow>(typeof(BookBorrow).Name);
         }
+        /// <summary>
+        /// Add Notice in Notice Db Collection
+        /// </summary>
+        /// <param name="notice"></param>
+        /// <returns></returns>
         public async Task<Notice> AddNotice(Notice notice)
         {
             try
@@ -47,7 +52,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             }
             return notice;
         }
-
+        /// <summary>
+        /// Add new Student in Student Db Collcction
+        /// </summary>
+        /// <param name="student"></param>
+        /// <returns></returns>
         public async Task<Student> AddStudent(Student student)
         {
             try
@@ -65,7 +74,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             }
             return student;
         }
-
+        /// <summary>
+        /// Add new Teacher in Teacher Db Collcction
+        /// </summary>
+        /// <param name="teacher"></param>
+        /// <returns></returns>
         public async Task<Teacher> AddTeacher(Teacher teacher)
         {
             try
@@ -83,7 +96,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             }
             return teacher;
         }
-
+        /// <summary>
+        /// Delete a book from Library Db Collection
+        /// </summary>
+        /// <param name="bookId"></param>
+        /// <returns></returns>
         public async Task<bool> DeleteBookById(string bookId)
         {
             try
@@ -98,7 +115,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Delete notice from notice Db Collction
+        /// </summary>
+        /// <param name="noticeId"></param>
+        /// <returns></returns>
         public async Task<bool> DeleteNoticeById(string noticeId)
         {
             try
@@ -113,7 +134,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Delete a student by Student id from student Db Collection
+        /// </summary>
+        /// <param name="studentId"></param>
+        /// <returns></returns>
         public async Task<bool> DeleteStudentById(string studentId)
         {
             try
@@ -128,7 +153,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Delete teachers by id  from Teacher Db Collection
+        /// </summary>
+        /// <param name="teacherId"></param>
+        /// <returns></returns>
         public async Task<bool> DeleteTeacherById(string teacherId)
         {
             try
@@ -143,7 +172,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get Book By Id from Library Db Collection
+        /// </summary>
+        /// <param name="bookId"></param>
+        /// <returns></returns>
         public async Task<Library> GetBookById(string bookId)
         {
             try
@@ -158,7 +191,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get Notice by Id from Notice Db Collection
+        /// </summary>
+        /// <param name="noticeId"></param>
+        /// <returns></returns>
         public async Task<Notice> GetNoticeById(string noticeId)
         {
             try
@@ -173,7 +210,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get Student by Id from Student Db Collection
+        /// </summary>
+        /// <param name="studentId"></param>
+        /// <returns></returns>
         public async Task<Student> GetStudentById(string studentId)
         {
             try
@@ -188,7 +229,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Get Teacher by Id from Teacher Db Collection
+        /// </summary>
+        /// <param name="teacherId"></param>
+        /// <returns></returns>
         public async Task<Teacher> GetTeacherById(string teacherId)
         {
             try
@@ -203,7 +248,11 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 throw (ex);
             }
         }
-
+        /// <summary>
+        /// Add new book in Library Db Collection
+        /// </summary>
+        /// <param name="library"></param>
+        /// <returns></returns>
         public async Task<Library> NewBook(Library library)
         {
             try
@@ -221,7 +270,12 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
             }
             return library;
         }
-
+        /// <summary>
+        /// Update Book Db Collction by Id
+        /// </summary>
+        /// <param name="bookId"></param>
+        /// <param name="library"></param>
+        /// <returns></returns>
         public async Task<Library> UpdateBook(string bookId, Library library)
         {
             if (library == null && bookId == null)
@@ -234,7 +288,12 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 .Set("Writer", library.Writer).Set("Stock", library.Stock));
             return update;
         }
-
+        /// <summary>
+        /// Update existing  Notice by id 
+        /// </summary>
+        /// <param name="noticeId"></param>
+        /// <param name="notice"></param>
+        /// <returns></returns>
         public async Task<Notice> UpdateNotice(string noticeId, Notice notice)
         {
             if (notice == null && noticeId == null)
@@ -248,7 +307,12 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 .Set("ChiefGuest", notice.ChiefGuest).Set("Remarks", notice.Remarks));
             return update;
         }
-
+        /// <summary>
+        /// Update existing student by Id
+        /// </summary>
+        /// <param name="studentId"></param>
+        /// <param name="student"></param>
+        /// <returns></returns>
         public async Task<Student> UpdateStudent(string studentId, Student student)
         {
             if (student == null && studentId == null)
@@ -262,7 +326,12 @@ namespace Schoolmanagement.BusinessLayer.Services.Repository
                 .Set("classList", student.classList).Set("Section", student.Section));
             return update;
         }
-
+        /// <summary>
+        /// Update existing teacher by Id
+        /// </summary>
+        /// <param name="teacherId"></param>
+        /// <param name="teacher"></param>
+        /// <returns></returns>
         public async Task<Teacher> UpdateTeacher(string teacherId, Teacher teacher)
         {
             if (teacher == null && teacherId == null)
