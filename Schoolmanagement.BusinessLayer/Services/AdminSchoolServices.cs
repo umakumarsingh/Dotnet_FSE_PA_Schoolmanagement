@@ -26,8 +26,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Notice> AddNotice(Notice notice)
         {
-            var resultnotice = await _aSRepository.AddNotice(notice);
-            return resultnotice;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Add new student in Db Collection
@@ -36,8 +36,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Student> AddStudent(Student student)
         {
-            var resultstudent = await _aSRepository.AddStudent(student);
-            return resultstudent;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Add theacher in Db Collection
@@ -46,8 +46,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Teacher> AddTeacher(Teacher teacher)
         {
-            var resultteacher = await _aSRepository.AddTeacher(teacher);
-            return resultteacher;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Delete Book by id from Collection
@@ -56,8 +56,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<bool> DeleteBookById(string bookId)
         {
-            var result = await _aSRepository.DeleteBookById(bookId);
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Delete notice by notice Id
@@ -66,8 +66,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<bool> DeleteNoticeById(string noticeId)
         {
-            var result = await _aSRepository.DeleteNoticeById(noticeId);
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Delete student by Id from Db Collection
@@ -76,8 +76,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<bool> DeleteStudentById(string studentId)
         {
-            var result = await _aSRepository.DeleteStudentById(studentId);
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Delete teacher by by Id from Db Collection
@@ -86,8 +86,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<bool> DeleteTeacherById(string noticeId)
         {
-            var result = await _aSRepository.DeleteTeacherById(noticeId);
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get book by Book Id from Db collection
@@ -96,8 +96,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Library> GetBookById(string bookId)
         {
-            var getbook = await _aSRepository.GetBookById(bookId);
-            return getbook;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get Notice By Id from Db Collection
@@ -106,8 +106,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Notice> GetNoticeById(string noticeId)
         {
-            var getnotice = await _aSRepository.GetNoticeById(noticeId);
-            return getnotice;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get student by Id from Db Collecction
@@ -116,8 +116,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Student> GetStudentById(string studentId)
         {
-            var getstudent = await _aSRepository.GetStudentById(studentId);
-            return getstudent;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get Teachers by Id from Db Collection
@@ -126,8 +126,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Teacher> GetTeacherById(string teacherId)
         {
-            var getteacher = await _aSRepository.GetTeacherById(teacherId);
-            return getteacher;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Add new book in Library Collection
@@ -136,8 +136,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Library> NewBook(Library library)
         {
-            var resultAdd = await _aSRepository.NewBook(library);
-            return resultAdd;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Update Book in Db Collection by Id and Library Object
@@ -147,8 +147,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Library> UpdateBook(string bookId, Library library)
         {
-            var update = await _aSRepository.UpdateBook(bookId, library);
-            return update;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Update Notice in Db Collection by Id and Notice Object
@@ -158,8 +158,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Notice> UpdateNotice(string noticeId, Notice notice)
         {
-            var update = await _aSRepository.UpdateNotice(noticeId, notice);
-            return update;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Update Student in Db Collection by Id and Student Object
@@ -169,8 +169,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Student> UpdateStudent(string studentId, Student student)
         {
-            var update = await _aSRepository.UpdateStudent(studentId, student);
-            return update;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Update Teacher in Db Collection by Id and Teacher Object
@@ -180,8 +180,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<Teacher> UpdateTeacher(string teacherId, Teacher teacher)
         {
-            var update = await _aSRepository.UpdateTeacher(teacherId, teacher);
-            return update;
+            //Do Code Here
+            throw new NotImplementedException();
         }
     }
 }

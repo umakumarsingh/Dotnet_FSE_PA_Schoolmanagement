@@ -6769,11 +6769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Test\\Schoolmanagement.Test.csproj",
+      "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Test\\Schoolmanagement.Test.csproj",
       "projectName": "Schoolmanagement.Test",
-      "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Test\\Schoolmanagement.Test.csproj",
+      "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Test\\Schoolmanagement.Test.csproj",
       "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Test\\obj\\",
+      "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6792,8 +6792,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\Schoolmanagement.csproj": {
-              "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\Schoolmanagement.csproj"
+            "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\Schoolmanagement.csproj": {
+              "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement\\Schoolmanagement.csproj"
             }
           }
         }

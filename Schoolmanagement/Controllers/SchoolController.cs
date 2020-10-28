@@ -30,7 +30,8 @@ namespace Schoolmanagement.Controllers
         [HttpGet]
         public async Task<IEnumerable<Notice>> GetAllNotice()
         {
-            return await _schoolServices.AllNotice();
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Find Notice by name, event from Db Collection
@@ -41,16 +42,8 @@ namespace Schoolmanagement.Controllers
         [Route("Searchnotice/{Name}")]
         public async Task<IActionResult> SearchNotice(string name)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest();
-            }
-            var findnotice = await _schoolServices.FindNotice(name);
-            if (findnotice == null)
-            {
-                return NotFound();
-            }
-            return CreatedAtAction("GetAllNotice", findnotice);
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get all student bu Db Collection
@@ -60,7 +53,8 @@ namespace Schoolmanagement.Controllers
         [Route("allstudent")]
         public async Task<IEnumerable<Student>> GetAllStudent()
         {
-            return await _schoolServices.AllStudent();
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Find Student by name
@@ -71,16 +65,8 @@ namespace Schoolmanagement.Controllers
         [Route("Searchstudent/{Name}")]
         public async Task<IActionResult> SearchStudent(string name)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest();
-            }
-            var findstudent = await _schoolServices.FindStudent(name);
-            if (findstudent == null)
-            {
-                return NotFound();
-            }
-            return CreatedAtAction("GetAllStudent", findstudent);
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get all book list fron Db Collection
@@ -90,7 +76,8 @@ namespace Schoolmanagement.Controllers
         [Route("booklist")]
         public async Task<IEnumerable<Library>> GetBookList()
         {
-            return await _schoolServices.BookList();
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// All teachers from Db ollection
@@ -100,7 +87,8 @@ namespace Schoolmanagement.Controllers
         [Route("allteacher")]
         public async Task<IEnumerable<Teacher>> GetAllTeacher()
         {
-            return await _schoolServices.AllTeacher();
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Borrow Book from Library and collect from counter
@@ -112,17 +100,8 @@ namespace Schoolmanagement.Controllers
         [Route("Borrowbook")]
         public async Task<IActionResult> Borrowbook(string BookId, [FromBody] BookBorrowViewModel model)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-            BookBorrow bookborrrow = new BookBorrow
-            {
-                FromDate = model.FromDate,
-                Todate = model.Todate
-            };
-            await _schoolServices.BorrowBook(BookId, bookborrrow);
-            return Ok("Book Borrowed, Collect from Counter...");
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get Book Borrow Information by borrow id
@@ -133,16 +112,8 @@ namespace Schoolmanagement.Controllers
         [Route("borrowinfo/{BorrowId}")]
         public async Task<IActionResult> BorrowBookInfor(string borrowId)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest();
-            }
-            var info = await _schoolServices.BorrowInfo(borrowId);
-            if (info == null)
-            {
-                return NotFound();
-            }
-            return CreatedAtAction("GetBookList", info);
+            //Do Code Here
+            throw new NotImplementedException();
         }
     }
 }

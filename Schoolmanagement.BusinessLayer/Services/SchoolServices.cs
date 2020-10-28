@@ -28,8 +28,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<IEnumerable<Notice>> AllNotice()
         {
-            var result = await _sRepository.AllNotice();
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get All student from Db Collection
@@ -37,8 +37,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<IEnumerable<Student>> AllStudent()
         {
-            var result = await _sRepository.AllStudent();
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get All Teachers from Db Collection
@@ -46,8 +46,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<IEnumerable<Teacher>> AllTeacher()
         {
-            var result = await _sRepository.AllTeacher();
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get All Book from Library Db Collection
@@ -55,8 +55,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<IEnumerable<Library>> BookList()
         {
-            var result = await _sRepository.BookList();
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Place book borrow in Db Collection
@@ -66,8 +66,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<BookBorrow> BorrowBook(string BookId, BookBorrow bookBorrow)
         {
-            var result = await _sRepository.BorrowBook(BookId, bookBorrow);
-            return result;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Get borrow book info
@@ -76,8 +76,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<BookBorrow> BorrowInfo(string BorrowId)
         {
-            var bookinfo = await _sRepository.BorrowInfo(BorrowId);
-            return bookinfo;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Find a notice by notice Name
@@ -86,8 +86,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<IEnumerable<Notice>> FindNotice(string name)
         {
-            var findresult = await _sRepository.FindNotice(name);
-            return findresult;
+            //Do Code Here
+            throw new NotImplementedException();
         }
         /// <summary>
         /// Find student by student name.
@@ -96,8 +96,8 @@ namespace Schoolmanagement.BusinessLayer.Services
         /// <returns></returns>
         public async Task<IEnumerable<Student>> FindStudent(string name)
         {
-            var findstudent = await _sRepository.FindStudent(name);
-            return findstudent;
+            //Do Code Here
+            throw new NotImplementedException();
         }
     }
 }

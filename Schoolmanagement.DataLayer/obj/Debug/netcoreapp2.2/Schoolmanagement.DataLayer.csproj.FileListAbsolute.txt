@@ -16,3 +16,12 @@ D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debu
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.csproj.CoreCompileInputs.cache
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.deps.json
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.AssemblyInfo.cs
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.DataLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb

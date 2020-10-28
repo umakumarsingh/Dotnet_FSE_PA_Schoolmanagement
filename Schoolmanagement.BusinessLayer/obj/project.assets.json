@@ -1292,11 +1292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj",
       "projectName": "Schoolmanagement.BusinessLayer",
-      "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\Schoolmanagement.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1315,11 +1315,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {
-              "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj"
+            "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj"
             },
-            "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj": {
-              "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj"
+            "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj": {
+              "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.Entities\\Schoolmanagement.Entities.csproj"
             }
           }
         }

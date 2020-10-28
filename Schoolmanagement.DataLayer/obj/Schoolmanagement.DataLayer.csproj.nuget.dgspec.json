@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {}
+    "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {
+    "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj",
         "projectName": "Schoolmanagement.DataLayer",
-        "projectPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj",
+        "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\Schoolmanagement.DataLayer.csproj",
         "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT_Backup\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\Dotnet_FSE_PA_Schoolmanagement\\Schoolmanagement.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

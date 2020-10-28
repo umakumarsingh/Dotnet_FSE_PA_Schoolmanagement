@@ -26,3 +26,17 @@ D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CopyComplete
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.deps.json
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.DataLayer.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.AssemblyInfo.cs
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.csproj.CopyComplete
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.BusinessLayer\obj\Debug\netcoreapp2.2\Schoolmanagement.BusinessLayer.pdb

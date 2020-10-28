@@ -16,3 +16,12 @@ D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csproj.CoreCompileInputs.cache
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
 D:\GIT_Backup\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.deps.json
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\bin\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.AssemblyInfo.cs
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.dll
+C:\Users\KUMARUMA\Documents\GitHub\Dotnet_FSE_PA_Schoolmanagement\Schoolmanagement.Entities\obj\Debug\netcoreapp2.2\Schoolmanagement.Entities.pdb
